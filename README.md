@@ -1,4 +1,4 @@
-# HyperX Cloud 2 Modding - Advanced Hardware Customization and Acoustic Tuning
+# HyperX Cloud 2 Modding - Hardware Customization and Acoustic Tuning
 
 ## Project Overview
 This project involves a comprehensive internal reconstruction of the HyperX Cloud 2 (PS4 version originally, without the USB sound card). The goal was to convert a standard gaming headset into a modular, high-fidelity audio tool by upgrading the drivers, implementing a physical bass tuning system, and converting the fixed cable to a jack port.
@@ -24,4 +24,4 @@ This project involves a comprehensive internal reconstruction of the HyperX Clou
 * **Versatility:** Real-time bass tuning via integrated mechanical sliders.
 * **Modularity:** Detachable cable system significantly increasing the lifespan and portability of the headset.
 * **Acoustic Clarity:** Enhanced mid-to-high frequency detail and a more natural, non-fatiguing bass response.
-
+* **Seamlessly and Non Destructive Upgrade:** The design remained the same even if upgrades were made.
