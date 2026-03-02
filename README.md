@@ -14,6 +14,15 @@ This project involves a comprehensive internal reconstruction of the HyperX Clou
 * **Structural Modifications:** Modified the left driver frame to accommodate the jack port housing and secured it with hot glue.
 * **Ergonomic Refresh:** Replaced the original headband and ear pads with better variants.
 
+### Components & Parts
+* **Replacement Drivers:** 2 x 40mm ~65 Ohm drivers.
+* **Connectors:** 1 x 3.5mm female stereo jack 4 pin (to preserve the microphone).
+* **Mechanical Parts:** 2 x Laptop webcam privacy sliders (flexible plastic).
+* **Damping Material:** Low-density acoustic foam or soft open-cell sponge (you can use the foam from the old headband/ear pads or even sponge).
+* **Consumables:** Solder, hot glue.
+* **Ergonomics:** Aftermarket better ear pads and a replacement headband cover (AliExpress).
+
+
 ## Tools and Methodologies Applied
 
 * **Soldering and Assembly:**  Manual soldering for driver leads and jack terminals.
